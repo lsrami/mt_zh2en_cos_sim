@@ -1,0 +1,3 @@
+mt_zh2en_batch.py 边翻译边记录相似度
+mt_zh2en_cos_sim.py 已经翻译的计算相似度
+mt_zh2en_gpu.py 边翻译边计算ter，自定义dataloader
